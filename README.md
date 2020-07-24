@@ -5,9 +5,9 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 
 <img src="https://user-images.githubusercontent.com/45147475/88181103-078a6780-cc37-11ea-9321-93c246a65520.png" width="90%"></img>   
 
-<img src="https://user-images.githubusercontent.com/45147475/88439382-c1d6c600-ce13-11ea-9483-d91aa2c7752a.png" width="90%"></img>  
+<img src="https://user-images.githubusercontent.com/45147475/88439382-c1d6c600-ce13-11ea-9483-d91aa2c7752a.png" width="70%"></img>  
 
-<img src="https://user-images.githubusercontent.com/45147475/88439447-f21e6480-ce13-11ea-9ba4-367500476a03.png" width="90%"></img>   
+<img src="https://user-images.githubusercontent.com/45147475/88439447-f21e6480-ce13-11ea-9ba4-367500476a03.png" width="70%"></img>   
 
 # [+]Update 1.0  
 +Critical improvements (in both Server and Client)  
